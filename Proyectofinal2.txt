@@ -1,0 +1,16 @@
+Problematica
+La empresa realiza muebles basados en un diseño cuyos planos se encuentran en centimetros pero las maquinas que usan están configuradas en pulgadas, por lo cual hay fallas en la fabricación de las piezas.
+
+Algoritmo
+1. Solicitar al usuario las medidas de la pieza en centimetros
+2. Convertir las medidas de centimetros a pulgadas
+3. Mostrar las medidas en pulgadas al usuario
+
+Pseudocodigo
+
+Inicio
+1. Mostrar mensaje "Por favor ingresar las medidas de la pieza del mueble en centimetros: "
+2. Convertir las medidas en centimetros a pulgadas
+Medidas en centrimetros / 2.54
+3. Mostrar mensaje "Las medidas en pulgadas de la pieza ingresada son: ", medida_en_pulgadas
+Fin
